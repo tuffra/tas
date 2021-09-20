@@ -1,0 +1,29 @@
+.wp-pagenavi div {
+    height: 30px !important;
+    padding-top: 0px !important;
+}
+
+#footer {
+    background-position: center;
+}
+
+.conf-page {
+    font-style: normal;
+}
+.conf-page h2 {
+    margin-bottom: 15px;
+}
+.conf-page p {
+    margin: 10px 0;
+}
+
+.conf-page li {
+    font-family: 'Ubuntu', arial, sans-serif;
+}
+
+select {
+    padding: 2px;
+    background: #fafafa;
+    border: 1px solid #ddd;
+    color: #888888;
+}
